@@ -30,8 +30,8 @@
 Aqui você vê o impacto do meu código:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://cdn.discordapp.com/attachments/1449790677507637351/1454652863329337517/image.png?ex=6951de8c&is=69508d0c&hm=5a830c9f767f20ac5c4541450d66464d47d7a2b68707e1df0ede50d6ec640a16&" />
+  <img height="180em" src="https://media.discordapp.net/attachments/1449790677507637351/1454653370148061194/image.png?ex=6951df05&is=69508d85&hm=ffb4b138c0bf5d0f24fc83d575bb4463a06a2f24f4ed47d603f80a70deab06ad&=&format=webp&quality=lossless" />
 </p>
 
 ---
