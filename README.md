@@ -1,10 +1,13 @@
 # 💫 About Me:
 **Nicolas Dias** | 14y | 📍 Ribeirão Preto - SP
 
+> Passionate developer working with C#, Python, and Cloud technologies.
+
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bmH3KCtUCR) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@xcafedev) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n4colas12@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/bmH3KCtUCR) 
+[![email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:n4colas12@gmail.com)
 
 ---
 
