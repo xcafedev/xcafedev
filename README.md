@@ -19,15 +19,7 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xcafedev&show_icons=true&theme=dark&hide_border=false" alt="Main Stats" />
-  <br><br>
-  
-  <table>
-    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=xcafedev&theme=dark" alt="Streak Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcafedev&layout=compact&theme=dark" alt="Top Languages" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xcafedev&theme=dark" alt="Streak Stats" />
 </div>
 
 ---
